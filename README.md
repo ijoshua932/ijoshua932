@@ -1,4 +1,4 @@
-### Howdy! I'm Joshua, an <a href="https://linkedin.com/in/joshua-ibarra-762x51mm/">IT Professional!</h1>
+### Howdy! I'm Joshua, an <a href="https://linkedin.com/in/joshua-ibarra-762x51mm/">IT and Cybersecurity Professional!</h1>
 
 <h2> Information Technology Projects:</h2>
 
@@ -11,6 +11,9 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ijoshua932/azure-network-protocols)
 - <b>Virtual Private Networks (VPNs)</b>
   - [VPNs: Installation and Configuration](https://github.com/ijoshua932/vpn-install-config)
+- <b>Internal Security Audits (NIST CSF)</b>
+  - [Audit Scope and Goals](https://github.com/ijoshua932/security-audit)
+
 
 <h2>Connect with me:</h2>
 
