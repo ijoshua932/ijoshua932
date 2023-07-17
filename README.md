@@ -12,7 +12,7 @@
 - <b>Virtual Private Networks (VPNs)</b>
   - [VPNs: Installation and Configuration](https://github.com/ijoshua932/vpn-install-config)
 - <b>Internal Security Audits (NIST CSF)</b>
-  - [Audit Scope and Goals](https://github.com/ijoshua932/security-audit)
+  - [Audit: Scope, Goals, Risk Assesment](https://github.com/ijoshua932/security-audit)
 
 
 <h2>Connect with me:</h2>
