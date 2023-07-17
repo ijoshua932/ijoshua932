@@ -1,6 +1,6 @@
 ### Howdy! I'm Joshua, an <a href="https://linkedin.com/in/joshua-ibarra-762x51mm/">IT and Cybersecurity Professional!</h1>
 
-<h2> Information Technology Projects:</h2>
+<h2> Information Technology and Cybersecurity Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ijoshua932/osticket-prereqs)
